@@ -1,0 +1,23 @@
+.navbar-nav {
+  flex-direction: row;
+}
+ul li{
+  margin: 5px;
+  padding: 5px;
+}
+
+ul li a{
+  color: white;
+}
+
+.navbar-brand {
+  color: white;
+}
+
+.navbar-color {
+  background-color: aquamarine;
+}
+
+.search-form {
+  margin: 20px;
+}
